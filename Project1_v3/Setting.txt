@@ -1,0 +1,4 @@
+Common: trinh, quoctrinh@gmail.com, 06082001, 4172428, 10000; Display: 3, 4, 3; Sound: 0, 0, 0, 0; General: (GMT+07:00), Vietnamese
+Common: trang, trangCute@gmail.com, 14062001, 1742312, 9000; Display: 2, 3, 1; Sound: 0, 0, 0, 0; General: (GMT+07:00) , English
+Common: trinh, trinhNguyen@gmail.com, 14082001, 412424, 10000; Display: 4, 4, 4; Sound: 0, 0, 0, 0; General: (GMT+07:00), Vietnamese
+Common: linh, doanlinh@gmail.com, 19022001, 2142714, 10000; Display: 3, 3, 3; Sound: 0, 0, 0, 0; General: (GMT+07:00), Vietnamese
